@@ -13,6 +13,7 @@ import (
 )
 
 const (
+	path     = "output/"
 	filename = "output.xlsx"
 )
 
@@ -123,7 +124,7 @@ func main() {
 		}
 	}
 
-	err = file.Save(filename)
+	err = file.Save(fmt.Sprintf("%s%s", path, filename))
 	if err != nil {
 		logger.ErrorLogger.Fatalf("Ошибка сохранения файла %s : %s", filename, err)
 	}
