@@ -1,2 +1,0 @@
-https://sberworks.ru/nexus-cd/repository/sbt_PROD/sbt_PROD/CI90000066_synt/fsdk-bin/D-01.002.02-66/fsdk-bin-D-01.002.02-66-distrib.zip
-https://sberworks.ru/nexus-cd/repository/sbt_PROD/sbt_PROD/CI90000066_synt/fsdk-bin/D-01.002.02-66/fsdk-bin-D-01.002.02-66-distrib.zip
